@@ -13,4 +13,4 @@ None, uses node.js standard libraries `fs` and `path`.
 binwalk tends to overshoot data ending up in large filesizes in some cases.
 
 ## Planned Features
-* Get texture names from W3D files and use it instead of array index for file names
+* ~~Get texture names from W3D files and use it instead of array index for file names~~ Done
